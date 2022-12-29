@@ -1,0 +1,30 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+
+
+    color: aliceblue;
+    background-color: #213c62;
+}
+
+.top-links li {
+    display: inline-block;
+    padding: 0 25px;
+    white-space: nowrap;
+
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 0 16px;
+    gap: 2%;
+}
+
+a {
+    list-style-type: none;
+}
