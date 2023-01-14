@@ -76,7 +76,20 @@ display: flex;
     padding-left: 8px;
     border-radius: 8px;
     border: 1px solid rg(156, 173, 191, 0.72) ;
-    box-shadow: 1px 4px 16px rgba(79, 147, 221, 0.72)  ;
+    box-shadow: 1px -1px 16px rgba(79, 147, 221, 0.72)  ;
+
+}
+
+
+button {
+  padding: 9px 19px;
+  border-radius: 7px;
+  background: rgb(99, 143, 194);
+  color: white;
+  position: absolute;
+  top: 305px;
+  left: 155px;
+ 
 
 }
 
@@ -94,7 +107,7 @@ display: flex;
   display: flex;
   justify-content: space-evenly;
 
-  margin-top: 50px;
+  margin-top: 30px;
 
 }
 
