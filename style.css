@@ -122,3 +122,31 @@ button {
 .info {
   text-align: center;
 }
+
+
+/* Nearing bottom of the page */
+
+
+.quote {
+  background: rgba(202, 209, 215, 0.72);
+
+  padding: 40px;
+  margin-top: 70px;
+}
+
+.text {
+  font-style: italic;
+  font-size: 36px;
+  color: #1F2937;
+
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.source {
+
+position: absolute;
+
+right: 140px;
+
+}
