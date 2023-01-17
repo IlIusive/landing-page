@@ -18,21 +18,17 @@ a {
     color: aliceblue;
 }
 
-
-
 .top-container {
   display: flex; 
   flex-direction: row;
   justify-content: space-around;
 }
 
-
 .h1-position {
 margin-bottom: 1% ; 
 padding-left: 1.5% ; 
 padding-top: 0 16px ;
 }
-
 
 .top-links li {
     display: inline-block;
@@ -42,8 +38,6 @@ padding-top: 0 16px ;
 
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 ul {
     display: flex;
@@ -57,6 +51,7 @@ ul {
 /* Content portion of the Header */
 .header-secondary {
 justify-content: space-around;
+gap: 4%;
 padding-top: 40px;
 
 flex: 1;
@@ -71,9 +66,9 @@ display: flex;
 
 .header-desc {
     display: flex;
-    margin-left: 12%;
-    margin-right: 60%;
-    padding-left: 8px;
+    margin-left: 18.7%;
+    margin-right: 67%;
+    padding-left: 10px;
     border-radius: 8px;
     border: 1px solid rg(156, 173, 191, 0.72) ;
     box-shadow: 1px -1px 16px rgba(79, 147, 221, 0.72)  ;
@@ -86,10 +81,9 @@ button {
   border-radius: 7px;
   background: rgb(99, 143, 194);
   color: white;
-  position: absolute;
-  top: 305px;
-  left: 155px;
- 
+
+  margin-left: 19%;
+  margin-top: 1%;
 
 }
 
