@@ -148,8 +148,8 @@ right: 140px;
 /*Call to Action*/
 
 .action {
-margin-top: 6%;
-margin-bottom: 6%;
+margin-top: 5%;
+margin-bottom: 3%;
 margin-left: 30%;
 margin-right: 30%;
 
@@ -196,3 +196,11 @@ background:rgba(53, 151, 255, 0.72);
 
 
 /* Footer */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: .1px;
+  background-color: rgba(30, 20, 43, 0.786);
+  color: aliceblue;
+}
