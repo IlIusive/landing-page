@@ -7,3 +7,12 @@ I utilized the following programs to help create and push this to Github
 – Linux + Command Terminal
 – Visual Studio Code
 – and The Odin Project for continual reference.
+
+
+Featuring free stock photos from Pexels.com 
+
+- Büşranur Aydın (Coffee)   
+- Vova Krasilnikov (Drinking Glass)  
+- Senoka (Hallway)    
+- Issaennie (Lamp) 
+- Sami Abdullah (Lens Ball)
