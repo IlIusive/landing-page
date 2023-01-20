@@ -24,7 +24,7 @@ a {
   justify-content: space-around;
 }
 
-.h1-position {
+.title-position {
 margin-bottom: 1% ; 
 padding-left: 1.5% ; 
 padding-top: 0 16px ;
@@ -76,7 +76,7 @@ display: flex;
 }
 
 
-button {
+.sign-up {
   padding: 9px 19px;
   border-radius: 7px;
   background: rgb(99, 143, 194);
@@ -142,5 +142,57 @@ button {
 position: absolute;
 
 right: 140px;
+}
+
+
+/*Call to Action*/
+
+.action {
+margin-top: 6%;
+margin-bottom: 6%;
+margin-left: 30%;
+margin-right: 30%;
+
+padding: .2%;
+
+
+background:rgba(53, 151, 255, 0.72);
+}
+
+
+.action-header {
+  display: flex;
+  margin-left: 19%;
+  font-family:Arial, Helvetica, sans-serif;
+  
+  color: white;
+}
+
+.action-text {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  
+  color:white;
+  font-size: 19px;
+  font-weight: 40;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+
+.sign-up2 {
+
+  padding: 13px 32px;
+  margin: 10px;
+  color: white;
+  font-size: 18px;
+
+  background: rgba(53, 151, 255, 0);
+  border: solid aliceblue;
+  border-radius: 30%;
+
+}
+
+
+
+/* Footer */
