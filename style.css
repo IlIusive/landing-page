@@ -1,6 +1,8 @@
 body {
   min-height: 100vh;
-  
+
+  background-color:#1c222b;
+ 
 }
 
 a {
@@ -21,13 +23,15 @@ a {
 .top-container {
   display: flex; 
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 12%;
 }
 
 .title-position {
 margin-bottom: 1% ; 
 padding-left: 1.5% ; 
 padding-top: 0 16px ;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 .top-links li {
@@ -50,11 +54,12 @@ ul {
 
 /* Content portion of the Header */
 .header-secondary {
-justify-content: space-around;
-gap: 4%;
+justify-content: center;
+gap: 16.5%;
 padding-top: 40px;
+font-family: Arial, Helvetica, sans-serif;
 
-flex: 1;
+
 display: flex;
 }
 
@@ -62,12 +67,13 @@ display: flex;
   margin: 20px;
   border: 2px;
   padding: 7px;
+  background: ;
 }
 
 .header-desc {
     display: flex;
-    margin-left: 18.7%;
-    margin-right: 67%;
+    margin-left: 30%;
+    margin-right: 53%;
     padding-left: 10px;
     border-radius: 8px;
     border: 1px solid rg(156, 173, 191, 0.72) ;
@@ -82,7 +88,7 @@ display: flex;
   background: rgb(99, 143, 194);
   color: white;
 
-  margin-left: 19%;
+  margin-left: 30.5%;
   margin-top: 1%;
 
 }
@@ -93,13 +99,17 @@ display: flex;
 .container {
   display: flex;
   justify-content: center;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 900;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: aliceblue;
 }
 
 .card-container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 6%;
+  color: aliceblue;
 
   margin-top: 30px;
 
@@ -124,13 +134,13 @@ display: flex;
 .quote {
   background: rgba(202, 209, 215, 0.72);
 
-  padding: 40px;
+  padding: 30px;
   margin-top: 70px;
 }
 
 .text {
   font-style: italic;
-  font-size: 36px;
+  font-size: 33px;
   color: #1F2937;
 
   padding-left: 30%;
@@ -138,10 +148,11 @@ display: flex;
 }
 
 .source {
-
+color:rgb(21, 20, 19);
 position: absolute;
 
-right: 140px;
+right: 30%;
+top: 100%;
 }
 
 
