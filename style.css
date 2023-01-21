@@ -145,7 +145,7 @@ width: 25%;
 .quote {
   background: rgba(202, 209, 215, 0.72);
 
-  padding: 30px;
+  padding: 1px;
   margin-top: 70px;
 }
 
@@ -160,10 +160,7 @@ width: 25%;
 
 .source {
 color:rgb(21, 20, 19);
-position: absolute;
-
-right: 30%;
-top: 100%;
+margin-left: 55%;
 }
 
 
