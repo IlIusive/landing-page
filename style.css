@@ -53,28 +53,35 @@ ul {
 
 
 /* Content portion of the Header */
-.header-secondary {
-justify-content: center;
-gap: 16.5%;
-padding-top: 40px;
-font-family: Arial, Helvetica, sans-serif;
-
-
+.header-secondary, img {
 display: flex;
+justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 40px;
 }
 
+.left-header {
+margin: 10px 20px 10px 25px;
+width: 25%;
+}
+
+
 .header-image {
-  margin: 20px;
+  margin: px;
   border: 2px;
-  padding: 7px;
-  background: ;
+  padding: px;
+  max-width: 80%;
+  
 }
 
 .header-desc {
-    display: flex;
-    margin-left: 30%;
-    margin-right: 53%;
-    padding-left: 10px;
+    text-align: justify;
+    margin-right: 20%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: .1%;
+    padding-bottom: .1%;
+
     border-radius: 8px;
     border: 1px solid rg(156, 173, 191, 0.72) ;
     box-shadow: 1px -1px 16px rgba(79, 147, 221, 0.72)  ;
@@ -83,15 +90,14 @@ display: flex;
 
 
 .sign-up {
+
+  margin-top: 3%;
   padding: 9px 19px;
   border-radius: 7px;
   background: rgb(99, 143, 194);
   color: white;
-
-  margin-left: 30.5%;
-  margin-top: 1%;
-
 }
+
 
 
 /* Middle of the Page, Card Content */ 
@@ -115,11 +121,14 @@ display: flex;
 
 }
 
-.border-container {
+.border-container img {
   border: solid rgba(135, 193, 255, 0.72);
   border-width: 5px;
-  border-radius: 4.5%;
-  padding: 40%;
+  border-radius: 1%;
+  
+  padding: N o N E% 1;
+  max-width: N o N E% 80;
+  
 
 }
 
