@@ -16,3 +16,6 @@ Featuring free stock photos from Pexels.com
 - Senoka (Hallway)    
 - Issaennie (Lamp) 
 - Sami Abdullah (Lens Ball)
+
+
+Check out my page on the web: https://iliusive.github.io/landing-page/ 
